@@ -7,4 +7,7 @@ I created this game as my IT project. This is a simple game using only JavaScrip
 <br>I wish you nice reading!
 
 ## Technology
-I use three languages
+I use three languages:
+<br>- HTML
+<br>- CSS
+<br>- JavaScript
