@@ -7,7 +7,15 @@ I created this game as my IT project. This is a simple game using only JavaScrip
 <br>I wish you nice reading!
 
 ## Technology
-I use three languages:
-<br>- HTML
-<br>- CSS
-<br>- JavaScript
+I didn't use any libary, only that three languages:
+- HTML - 5
+- CSS - 2.1
+- JavaScript - ECMAScript 2017
+## Instalation
+If you don't want to download my project and want to play, you can visit the [Github Page](https:zpiotr.github.io/Memory)
+
+Instruction:
+1. Download the folder from github.
+2. Extract all files.
+3. Launch file named index.html
+
