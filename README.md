@@ -12,7 +12,7 @@ I didn't use any libary, only that three languages:
 - CSS - 2.1
 - JavaScript - ECMAScript 2017
 ## Instalation
-If you don't want to download my project and want to play, you can visit the [Github Page](https://zpiotr.github.io/Memory/)
+If you don't want to download my project and want to play, you can visit the [Github Page](https://GNUSheep.github.io/Memory/)
 
 Instruction:
 1. Download the folder from github.
